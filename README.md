@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MilanNemeth
-- 👀 I’m interested in .NET 6.0, Angular 13, GitHub, Ubuntu, PostgreSQL, Visual Studio 2022
-- 🌱 I’m currently learning all the above
+- 👀 I’m interested in .NET, Azure, Angular, GitHub, Ubuntu, PostgreSQL, MongoDB, Kubernetes, RabbitMQ
+- 🌱 I’m currently working while learning all the above
 - 💞️ I’m currently not looking to collaborate on any projects
 - 📫 DC: Milán#4569
 
