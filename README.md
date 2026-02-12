@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MilanNemeth
-- 👀 I’m interested in Azure, .NET, Angular, MongoDB, RabbitMQ, Dapr, Linux, Kubernetes, Helm, ArgoCD,
+- 👋 Hi, I’m Milán Németh
+- 👀 I’m interested in .NET, GO, Angular, MongoDB, RabbitMQ, Dapr, Redis, Linux, Docker, Kubernetes, Helm, ArgoCD
 - 🌱 I’m currently working
 - 💞️ I’m currently not looking actively to collaborate on new projects
 - 📫 DC: Milán#4569
